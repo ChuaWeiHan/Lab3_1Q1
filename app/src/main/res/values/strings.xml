@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab3_1Q1</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="msg">Your Message:</string>
+    <string name="butt">Send</string>
+</resources>
